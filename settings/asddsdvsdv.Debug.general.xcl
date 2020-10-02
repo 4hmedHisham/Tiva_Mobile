@@ -1,0 +1,15 @@
+"F:\IAR stepued\arm\bin\armproc.dll" 
+
+"F:\IAR stepued\arm\bin\armlmiftdi.dll" 
+
+"C:\Users\Mark\Desktop\Moible.ya5ty3alehabelRtc\Debug\Exe\asddsdvsdv.out" 
+
+--plugin="F:\IAR stepued\arm\bin\armbat.dll" 
+
+--device_macro="F:\IAR stepued\arm\config\debugger\TexasInstruments\TM4C123.dmac" 
+
+--flash_loader="F:\IAR stepued\arm\config\flashloader\TexasInstruments\FlashTC4_H6_o.board" 
+
+
+
+

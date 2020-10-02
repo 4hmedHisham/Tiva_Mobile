@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>4</fileVersion>
+    <fileChecksum>3126397655</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\Debug\Obj\keypad.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\startup_ewarm.pbi</file>
+            <file>$PROJ_DIR$\rtc.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Lcd.pbi</file>
+            <file>$PROJ_DIR$\inc\hw_types.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\ContactList.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+            <file>$PROJ_DIR$\driverlib\timer.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Game.c.pbi</file>
+            <file>$PROJ_DIR$\driverlib\gpio.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\CalculatorMind.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\Game.c.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\asddsdvsdv.pbd</file>
+            <file>$PROJ_DIR$\Lcd.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\ContactList.pbi</file>
+            <file>$PROJ_DIR$\Setup.h</file>
+            <file>$PROJ_DIR$\driverlib\eeprom.h</file>
+            <file>$PROJ_DIR$\inc\hw_memmap.h</file>
+            <file>$PROJ_DIR$\rtc.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\startup_ewarm.__cstat.et</file>
+            <file>$PROJ_DIR$\Lcd.h</file>
+            <file>$PROJ_DIR$\startup_ewarm.c</file>
+            <file>$PROJ_DIR$\tm4c123gh6pm.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\LCD.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\Lcd.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+            <file>$PROJ_DIR$\main.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\CalculatorMind.pbi</file>
+            <file>$PROJ_DIR$\Debug\Exe\asddsdvsdv.out</file>
+            <file>$PROJ_DIR$\Game.h</file>
+            <file>$PROJ_DIR$\keypad.c</file>
+            <file>$PROJ_DIR$\keypad.h</file>
+            <file>$PROJ_DIR$\CalculatorMind.c</file>
+            <file>$PROJ_DIR$\CalculatorMind.h</file>
+            <file>$PROJ_DIR$\ContactList.c</file>
+            <file>$PROJ_DIR$\ContactList.h</file>
+            <file>$PROJ_DIR$\Game.c.c</file>
+            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\keypad.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\startup_ewarm.o</file>
+            <file>$PROJ_DIR$\driverlib\pin_map.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Game.c.o</file>
+            <file>$PROJ_DIR$\driverlib\sysctl.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+            <file>$PROJ_DIR$\driverlib\debug.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\ContactList.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\keypad.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\rtc.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$PROJ_DIR$\Debug\List\asddsdvsdv.map</file>
+            <file>$PROJ_DIR$\Debug\Obj\rtc.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\CalculatorMind.o</file>
+            <file>$PROJ_DIR$\inc\hw_gpio.h</file>
+            <file>$TOOLKIT_DIR$\config\linker\TexasInstruments\TM4C123GH6.icf</file>
+            <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+            <file>$PROJ_DIR$\inc\hw_nvic.h</file>
+            <file>$PROJ_DIR$\..\..\Moible.ya5ty3aleha\driverlib\gcc\libdriver.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\driverlib\systick.h</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$TOOLKIT_DIR$\lib\m7M_tlv.a</file>
+            <file>F:\IAR Projects\Calculator\Keypad.c</file>
+            <file>F:\IAR Projects\Calculator\Lcd.c</file>
+        </outputs>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 31</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Lcd.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 27</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 3</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 26</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 22 25 54 44 63 51 53 6 24 46</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 6 46 54 51 25 24 44 63 53 22</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\rtc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 56</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 52</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 2 25 54 44 63 51 53 6 19 48 9 7 46 43 24</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 19 46 25 9 24 54 6 48 7 43 44 63 2 51 53</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\startup_ewarm.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 42</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 1</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 21</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 25 54 44 63 51 53 61 4</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 63 4 44 61 54 51 53 25</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 12</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 28</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 15</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 17 24 25 54 44 63 51 53 36 22 6 46 34 32 38 2 19 48 9 7 43</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 43 32 44 46 22 2 25 63 6 48 36 34 38 24 54 51 53 17 7 19 9</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\asddsdvsdv.out</name>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 59 57 49 45 41 27 12 56 42</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\keypad.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 41</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 0</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 50</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 24 25 54 44 63 51 53 47 66</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 47 51 66 25 44 53 54 24 63</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\CalculatorMind.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 57</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 30</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 10</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 36 17 24 25 54 44 63 51 53 22 6 46</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 51 24 25 22 17 54 53 36 44 63 6 46</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\ContactList.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 49</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 16</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 5</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 25 54 44 63 51 53 6 19 4 48 9 46 64 43 7 24 58 18</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 64 63 4 58 6 9 7 38 44 25 19 48 46 43 24 18 54 51 53</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Game.c.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 45</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 8</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 11</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 47 54 44 63 51 53 66 24 25</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 44 25 63 24 54 66 51 53 47</file>
+                </tool>
+            </inputs>
+        </file>
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>
